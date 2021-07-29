@@ -9,7 +9,7 @@ const color = document.querySelector('#color')
 btn_toggle.onclick = () => {
   const ans = 630610733 - length.value;
   author.innerHTML = ans;
-  author.id.remove("author")
+
 }
 
 // more codes for Search and Reset buttons here
